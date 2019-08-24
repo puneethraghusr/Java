@@ -1,0 +1,56 @@
+import.java.util.*
+class student
+ {
+   public int marks;
+   public void student_details()
+   {
+     int i;
+     String usn;
+     String name;
+     Scanner S=new Scanner(System.in);
+     System.out.println("Enter student name:");
+     name=s.nextLine();
+     System.out.println("Enter student usn:");
+     usn=s.nextLine();
+     System.out.print("Enter marks of subject:");
+     marks=s.nextInt();
+     System.out.print("NAME="+name);
+     System.out.print("USN="+usn);
+   }
+    public int calculation()
+    {
+    int i;
+    int grade_points;
+    {
+       if(marks[i]>=90)
+               grade_points=10;
+       else if(marks[i]>=75 && marks[i]<90)
+               grade_points=9;
+       else if(marks[i]>=60 && marks[i]<75)
+               grade_points=8;
+       else if(marks[i]>=50 && marks[i]<60)
+               grade points=7;
+       else if(marks[i]>=45 && marks[i]<50)
+               grade points=7;
+        else if(marks[i]>=41 && marks[i]<50)
+               grade points=7;
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
